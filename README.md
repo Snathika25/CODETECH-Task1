@@ -44,3 +44,7 @@
 ## IMAGES:
 
 <img width="960" alt="Screenshot 2024-06-19 224616" src="https://github.com/Snathika25/CODETECH-Task1/assets/171500227/efa4ff39-0081-4fa5-aed4-1f5750c65d52">
+<img width="507" alt="Screenshot 2024-06-19 224632" src="https://github.com/Snathika25/CODETECH-Task1/assets/171500227/b60f6319-9f6f-4283-a032-3e5dbe1b645a">
+<img width="323" alt="Screenshot 2024-06-19 224648" src="https://github.com/Snathika25/CODETECH-Task1/assets/171500227/32bef9ed-d9b4-4e85-9300-51582d521e6b">
+
+
